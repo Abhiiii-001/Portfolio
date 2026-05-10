@@ -1,0 +1,251 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Abhishek Kumar
+Abhishek Kumar
+Full Stack Web Developer
+
+Show Contacts
+
+Email
+jaiswal2abhi1947@gmail.com
+
+Phone
++91 7808968996
+
+Birthday
+Dec 5, 2003
+
+Location
+Gurgaon, India
+
+Resume
+Download CV
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I am a versatile Full-Stack Developer specializing in building robust web applications using TypeScript-driven frontend frameworks (MERN, Next.js) and scalable Python backends (Django, FastAPI).
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+System design
+Applying core architectural principles to design scalable, reliable, and optimized backend systems.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Algorithmic Problem Solving
+Solving complex algorithmic problems effectively and efficiently.
+
+alt = camera icon
+Freelancing
+I offer freelance services for web development and design projects.
+
+
+## testimonials
+
+Testimonials
+
+alt = Dharvesh Kumar
+Dharvesh Kumar
+Abhishek was hired to create a corporate identity. We were very pleased with the work done. He has gained a lot of experience and is very concerned about the needs of client. Also, he is a great person to work with.
+
+alt = Nikita Baranwal
+Nikita Baranwal
+Working alongside Abhishek on Djanogo & React projects was a great experience. They bridge the gap between frontend aesthetics and backend performance seamlessly. Whether it’s debugging a tricky TypeScript error or architecting a database schema, they bring a level of precision that elevates the entire project's quality.
+
+alt = Umang Kumar
+Umang Kumar
+Abhishek has a rare ability to grasp complex architectural concepts quickly. While working on our assessment platform, they successfully implemented a sophisticated time-locking permission system and optimized our search indexing.
+
+alt = Aniket Verma
+Aniket Verma
+I have been consistently impressed by Abhishek’s analytical mindset. Solving over 500 problems on LeetCode is no small feat—it reflects a level of discipline and algorithmic thinking that is evident in their clean, optimized C++ code. They are among the top tier of students who truly understand the 'why' behind the code.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Experience
+
+Full Stack Developer
+July, 2025 — Present
+Josh Technology Group, Gurgaon (On-site)
+
+Campus Ambassador
+Apr, 2024 — Dec, 2024
+Engineer Hub, Noida (Remote)
+
+Web developer internship
+Oct, 2023 — Dec, 2023
+Prodigy Infotech (Remote)
+
+Education
+
+Dr. APJ Abdul Kalam University, U.P.
+2022 — 2026
+B.Tech (Computer Science and Engineering)
+
+S.S.T. High School
+2018 — 2020
+Intermidate Science (PCM)
+
+L.N.J.P. High School
+2017 — 2018
+Matriculation
+
+My skills
+
+Frontend Development
+80%
+Backend Development
+90%
+System Design
+70%
+DSA
+80%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Full Stack Projects
+Frontend Projects
+Other Projects
+
+Select category
+All
+Full Stack Projects
+Frontend Projects
+Other Projects
+
+alt = Restro
+Restro
+Full Stack Projects
+Github - https://github.com/Abhiiii-001/Restro
+Live link - https://restro-client.vercel.app/, https://restro-two-gamma.vercel.app/
+
+alt = RapidShare
+RapidShare
+Full Stack Projects
+Github - https://github.com/Abhiiii-001/web-quickshare, https://github.com/Abhiiii-001/api-quickshare
+Live link - https://www.rapidshare.live
+
+alt = Study Notion
+Study Notion
+Full Stack Projects
+Github - https://github.com/Abhiiii-001/Study-Notion
+Live link - https://study-notion-learn.vercel.app/
+
+alt = Tenancy
+The Tenancy
+Full Stack Projects
+
+alt = Razorpay Landing Page
+Razorpay Landing Page
+Frontend Projects
+Github - https://github.com/Abhiiii-001/Frontend-Projects-/tree/master/RazorPay%20Clone
+Live link - 
+
+alt = Discord Landing Page
+Discord Landing Page
+Frontend Projects
+
+alt = Grid Color Game
+Grid Color Game
+Frontend Projects
+Github - https://github.com/Abhiiii-001/Grid-Color-Game
+Live link - https://grid-color-game-taupe.vercel.app/
+
+alt = Parallex Effect
+Parallex Effect
+Frontend Projects
+Github - https://github.com/Abhiiii-001/Frontend-Projects-/tree/master/Parallex%20Effect
+Live link - https://frontend-projects-azure-ten.vercel.app/
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
